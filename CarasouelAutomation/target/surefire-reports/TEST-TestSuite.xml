@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="177.06" tests="15" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="182.425" tests="20" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\ATHAR\AppData\Local\Temp\surefire11795091822689748853\surefirebooter-20241228165514637_3.jar C:\Users\ATHAR\AppData\Local\Temp\surefire11795091822689748853 2024-12-28T16-55-14_423-jvmRun1 surefire-20241228165514637_1tmp surefire_0-20241228165514637_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\ATHAR\AppData\Local\Temp\surefire16331145334688415302\surefirebooter-20241229123151599_3.jar C:\Users\ATHAR\AppData\Local\Temp\surefire16331145334688415302 2024-12-29T12-31-51_438-jvmRun1 surefire-20241229123151599_1tmp surefire_0-20241229123151599_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\carasouelAutomationDockerized\CarasouelAutomation\target\test-classes;D:\carasouelAutomationDockerized\CarasouelAutomation\target\classes;C:\Users\ATHAR\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-java\4.24.0\selenium-java-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-api\4.24.0\selenium-api-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.24.0\selenium-chrome-driver-4.24.0.jar;C:\Users\ATHAR\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.24.0\selenium-chromium-driver-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-json\4.24.0\selenium-json-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.24.0\selenium-manager-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v126\4.24.0\selenium-devtools-v126-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v127\4.24.0\selenium-devtools-v127-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v128\4.24.0\selenium-devtools-v128-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.24.0\selenium-devtools-v85-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.24.0\selenium-edge-driver-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.24.0\selenium-firefox-driver-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-http\4.24.0\selenium-http-4.24.0.jar;C:\Users\ATHAR\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.24.0\selenium-ie-driver-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.24.0\selenium-remote-driver-4.24.0.jar;C:\Users\ATHAR\.m2\repository\com\google\guava\guava\33.3.0-jre\guava-33.3.0-jre.jar;C:\Users\ATHAR\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\ATHAR\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\ATHAR\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\ATHAR\.m2\repository\org\checkerframework\checker-qual\3.43.0\checker-qual-3.43.0.jar;C:\Users\ATHAR\.m2\repository\com\google\errorprone\error_prone_annotations\2.28.0\error_prone_annotations-2.28.0.jar;C:\Users\ATHAR\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\ATHAR\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\ATHAR\.m2\repository\io\opentelemetry\opentelemetry-api\1.41.0\opentelemetry-api-1.41.0.jar;C:\Users\ATHAR\.m2\repository\io\opentelemetry\opentelemetry-context\1.41.0\opentelemetry-context-1.41.0.jar;C:\Users\ATHAR\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.41.0\opentelemetry-exporter-logging-1.41.0.jar;C:\Users\ATHAR\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.41.0\opentelemetry-sdk-common-1.41.0.jar;C:\Users\ATHAR\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.41.0\opentelemetry-sdk-extension-autoconfigure-spi-1.41.0.jar;C:\Users\ATHAR\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.41.0\opentelemetry-sdk-extension-autoconfigure-1.41.0.jar;C:\Users\ATHAR\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.41.0-alpha\opentelemetry-api-incubator-1.41.0-alpha.jar;C:\Users\ATHAR\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.41.0\opentelemetry-sdk-trace-1.41.0.jar;C:\Users\ATHAR\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.41.0\opentelemetry-sdk-1.41.0.jar;C:\Users\ATHAR\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.41.0\opentelemetry-sdk-metrics-1.41.0.jar;C:\Users\ATHAR\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.41.0\opentelemetry-sdk-logs-1.41.0.jar;C:\Users\ATHAR\.m2\repository\net\bytebuddy\byte-buddy\1.15.0\byte-buddy-1.15.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-os\4.24.0\selenium-os-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.24.0\selenium-safari-driver-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\seleniumhq\selenium\selenium-support\4.24.0\selenium-support-4.24.0.jar;C:\Users\ATHAR\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\ATHAR\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\ATHAR\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\ATHAR\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\ATHAR\.m2\repository\io\github\bonigarcia\webdrivermanager\5.7.0\webdrivermanager-5.7.0.jar;C:\Users\ATHAR\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\ATHAR\.m2\repository\com\github\docker-java\docker-java\3.3.5\docker-java-3.3.5.jar;C:\Users\ATHAR\.m2\repository\com\github\docker-java\docker-java-core\3.3.5\docker-java-core-3.3.5.jar;C:\Users\ATHAR\.m2\repository\com\github\docker-java\docker-java-api\3.3.5\docker-java-api-3.3.5.jar;C:\Users\ATHAR\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\ATHAR\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\ATHAR\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\ATHAR\.m2\repository\org\bouncycastle\bcpkix-jdk18on\1.76\bcpkix-jdk18on-1.76.jar;C:\Users\ATHAR\.m2\repository\org\bouncycastle\bcprov-jdk18on\1.76\bcprov-jdk18on-1.76.jar;C:\Users\ATHAR\.m2\repository\org\bouncycastle\bcutil-jdk18on\1.76\bcutil-jdk18on-1.76.jar;C:\Users\ATHAR\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\ATHAR\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.3.5\docker-java-transport-httpclient5-3.3.5.jar;C:\Users\ATHAR\.m2\repository\com\github\docker-java\docker-java-transport\3.3.5\docker-java-transport-3.3.5.jar;C:\Users\ATHAR\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\ATHAR\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\ATHAR\.m2\repository\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;C:\Users\ATHAR\.m2\repository\org\apache\commons\commons-compress\1.26.0\commons-compress-1.26.0.jar;C:\Users\ATHAR\.m2\repository\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar;C:\Users\ATHAR\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\ATHAR\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\ATHAR\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\ATHAR\AppData\Local\Temp\surefire11795091822689748853\surefirebooter-20241228165514637_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\ATHAR\AppData\Local\Temp\surefire16331145334688415302\surefirebooter-20241229123151599_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.10+11-LTS-240"/>
@@ -41,7 +41,6 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="otel.traces.exporter" value="none"/>
     <property name="file.encoding" value="Cp1252"/>
-    <property name="browser" value="chrome"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
     <property name="localRepository" value="C:\Users\ATHAR\.m2\repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
@@ -60,51 +59,65 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="searchProductName" classname="Tests.ProductPurchaseTesting" time="15.207">
+  <testcase name="searchProductName" classname="Tests.ProductPurchaseTesting" time="13.123">
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Dec 28, 2024 4:55:15 PM org.openqa.selenium.remote.tracing.opentelemetry.OpenTelemetryTracer createTracer
+Dec 29, 2024 12:31:52 PM org.openqa.selenium.remote.tracing.opentelemetry.OpenTelemetryTracer createTracer
 INFO: Using OpenTelemetry for tracing
 ]]></system-err>
   </testcase>
-  <testcase name="searchProductName" classname="Tests.ProductPurchaseTesting" time="51.62"/>
-  <testcase name="searchProductName" classname="Tests.ProductPurchaseTesting" time="50.784"/>
-  <testcase name="selectProductApple[Apple iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only) ](1)" classname="Tests.ProductPurchaseTesting" time="3.578"/>
-  <testcase name="selectProductApple[Apple iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only) ](1)" classname="Tests.ProductPurchaseTesting" time="3.431"/>
-  <testcase name="selectProductApple[Apple iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only) ](1)" classname="Tests.ProductPurchaseTesting" time="3.596"/>
-  <testcase name="getProductDetails" classname="Tests.ProductPurchaseTesting" time="1.825">
+  <testcase name="searchProductName" classname="Tests.ProductPurchaseTesting" time="51.224"/>
+  <testcase name="searchProductName" classname="Tests.ProductPurchaseTesting" time="14.028"/>
+  <testcase name="searchProductName" classname="Tests.ProductPurchaseTesting" time="28.617"/>
+  <testcase name="selectProductApple[Apple iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only) ](1)" classname="Tests.ProductPurchaseTesting" time="3.508"/>
+  <testcase name="selectProductApple[Apple iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only) ](1)" classname="Tests.ProductPurchaseTesting" time="3.915"/>
+  <testcase name="selectProductApple[Apple iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only) ](1)" classname="Tests.ProductPurchaseTesting" time="3.458"/>
+  <testcase name="selectProductApple[Apple iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only) ](1)" classname="Tests.ProductPurchaseTesting" time="3.452"/>
+  <testcase name="getProductDetails" classname="Tests.ProductPurchaseTesting" time="2.231">
     <system-out><![CDATA[iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only)
 iPhone 16 Pro Max
-4449.00
+4379.10
 ]]></system-out>
   </testcase>
-  <testcase name="getProductDetails" classname="Tests.ProductPurchaseTesting" time="1.593">
+  <testcase name="getProductDetails" classname="Tests.ProductPurchaseTesting" time="1.806">
     <system-out><![CDATA[iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only)
 iPhone 16 Pro Max
-4449.00
+4379.10
 ]]></system-out>
   </testcase>
-  <testcase name="getProductDetails" classname="Tests.ProductPurchaseTesting" time="1.751">
+  <testcase name="getProductDetails" classname="Tests.ProductPurchaseTesting" time="1.871">
     <system-out><![CDATA[iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only)
 iPhone 16 Pro Max
-4449.00
+4379.10
 ]]></system-out>
   </testcase>
-  <testcase name="selectSpecificationTest[1 TB, International Version](1)" classname="Tests.ProductPurchaseTesting" time="8.508"/>
-  <testcase name="selectSpecificationTest[1 TB, International Version](1)" classname="Tests.ProductPurchaseTesting" time="8.232"/>
-  <testcase name="selectSpecificationTest[1 TB, International Version](1)" classname="Tests.ProductPurchaseTesting" time="8.212"/>
-  <testcase name="processCheckoutPage" classname="Tests.ProductPurchaseTesting" time="2.855">
+  <testcase name="getProductDetails" classname="Tests.ProductPurchaseTesting" time="1.664">
+    <system-out><![CDATA[iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only)
+iPhone 16 Pro Max
+4379.10
+]]></system-out>
+  </testcase>
+  <testcase name="selectSpecificationTest[1 TB, International Version](1)" classname="Tests.ProductPurchaseTesting" time="7.799"/>
+  <testcase name="selectSpecificationTest[1 TB, International Version](1)" classname="Tests.ProductPurchaseTesting" time="8.379"/>
+  <testcase name="selectSpecificationTest[1 TB, International Version](1)" classname="Tests.ProductPurchaseTesting" time="8.297"/>
+  <testcase name="selectSpecificationTest[1 TB, International Version](1)" classname="Tests.ProductPurchaseTesting" time="8.226"/>
+  <testcase name="processCheckoutPage" classname="Tests.ProductPurchaseTesting" time="1.697">
     <system-out><![CDATA[Checkout page product name = Apple iPhone 16 Pro Max 1TB Desert Titanium 5G With FaceTime - International Version
 Checkout page total Amount = 6349.00
 ]]></system-out>
   </testcase>
-  <testcase name="processCheckoutPage" classname="Tests.ProductPurchaseTesting" time="1.638">
+  <testcase name="processCheckoutPage" classname="Tests.ProductPurchaseTesting" time="1.864">
     <system-out><![CDATA[Checkout page product name = Apple iPhone 16 Pro Max 1TB Desert Titanium 5G With FaceTime - International Version
 Checkout page total Amount = 6349.00
 ]]></system-out>
   </testcase>
-  <testcase name="processCheckoutPage" classname="Tests.ProductPurchaseTesting" time="2.321">
+  <testcase name="processCheckoutPage" classname="Tests.ProductPurchaseTesting" time="1.733">
+    <system-out><![CDATA[Checkout page product name = Apple iPhone 16 Pro Max 1TB Desert Titanium 5G With FaceTime - International Version
+Checkout page total Amount = 6349.00
+]]></system-out>
+  </testcase>
+  <testcase name="processCheckoutPage" classname="Tests.ProductPurchaseTesting" time="1.68">
     <system-out><![CDATA[Checkout page product name = Apple iPhone 16 Pro Max 1TB Desert Titanium 5G With FaceTime - International Version
 Checkout page total Amount = 6349.00
 ]]></system-out>

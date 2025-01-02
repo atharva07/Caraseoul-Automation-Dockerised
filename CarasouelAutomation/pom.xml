@@ -64,9 +64,6 @@
         <artifactId>maven-surefire-plugin</artifactId>
         <version>3.1.2</version>
         <configuration>
-          <systemPropertyVariables>
-            <browser>chrome</browser>
-          </systemPropertyVariables>
           <suiteXmlFiles>
             <file>src\test\java\Tests\TestSuite\CarasouelTestSuite.xml</file>
           </suiteXmlFiles>

@@ -4,6 +4,7 @@
         <parameter name="productName" value="Apple iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only) " />
         <parameter name="internalMemory" value="1 TB" />
         <parameter name="version" value="International Version" />
+        <parameter name="browser" value="chrome" />
         <classes>
             <class name="Tests.ProductPurchaseTesting" />
         </classes>
@@ -12,6 +13,7 @@
         <parameter name="productName" value="Apple iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only) " />
         <parameter name="internalMemory" value="1 TB" />
         <parameter name="version" value="International Version" />
+        <parameter name="browser" value="chrome" />
         <classes>
             <class name="Tests.ProductPurchaseTesting" />
         </classes>
@@ -20,6 +22,16 @@
         <parameter name="productName" value="Apple iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only) " />
         <parameter name="internalMemory" value="1 TB" />
         <parameter name="version" value="International Version" />
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="Tests.ProductPurchaseTesting" />
+        </classes>
+    </test>
+    <test name="testcase-4">
+        <parameter name="productName" value="Apple iPhone 16 Pro Max 256GB Desert Titanium 5G With FaceTime - USA Version (e-SIM only) " />
+        <parameter name="internalMemory" value="1 TB" />
+        <parameter name="version" value="International Version" />
+        <parameter name="browser" value="firefox" />
         <classes>
             <class name="Tests.ProductPurchaseTesting" />
         </classes>
